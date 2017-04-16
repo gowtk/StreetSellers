@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">StreetSellers</string>
+    <string name="streetsellers_in">StreetSellers.in</string>
+    <string name="streetsellers">StreetSellers</string>
+
 </resources>
